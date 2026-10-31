@@ -21,7 +21,10 @@ The ultrasonic sensor measures the distance of nearby objects. Based on the meas
 
 ## Wiring Diagram
 The complete wiring diagram will be added here.
-
+[https://drive.google.com/file/d/1EcBC_GySy9-nfYF8L7Utc-XjxTBNHIUD/view?usp=sharing]
+[https://drive.google.com/file/d/1Jrld_AZBauQt7Bwsz47RBRgXjyMnCP2Q/view?usp=sharing]
+[https://drive.google.com/file/d/1kfcs7bRwnsyYZdH66ia81wVvHUeE6CqO/view?usp=sharing]
+[https://drive.google.com/file/d/15owlCLj9wSfgSuTW73mAsZ9BZprTB-Lp/view?usp=sharing]
 ## Physical Assembly
 Photographs of the hardware assembly and physical prototype will be included in the media directory.
 
