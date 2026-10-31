@@ -22,11 +22,11 @@ This document records the development, hardware assembly, firmware development, 
 - Implemented LED control logic.
 - Worked on coordinating the LED lighting zones according to distance readings.
 
-### Current Progress
+## Current Progress
 - Approximate project completion: 80%.
-- Actual development time: 18 hours.
-- Lapse-recorded time: 2 hours 35 minutes.
-- Hardware assembly and integration are ongoing.
+- Actual development time: 26 hours.
+- Lapse-recorded time: 2.5 hours.
+- Hardware assembly, integration, and testing are ongoing.
 
 ## Build Documentation
 
